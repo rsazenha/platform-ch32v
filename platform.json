@@ -25,8 +25,8 @@
       "homepage": "https://www.wch.cn/downloads/",
       "title": "W.CH CH32Vxxx NoneOS SDK"
     },
-    "arduino": {
-      "package": "framework-arduinoch32v003",
+    "arduino-rsazenha": {
+      "package": "framework-arduinoch32v003-rsazenha",
       "script": "builder/frameworks/arduino.py",
       "description": "Arduino Wiring-based Framework allows writing cross-platform software to control devices attached to a wide range of Arduino boards to create all kinds of creative coding, interactive objects, spaces or physical experiences",
       "homepage": "http://arduino.cc/en/Reference/HomePage",
@@ -40,7 +40,7 @@
       "owner": "platformio",
       "version": "https://github.com/Community-PIO-CH32V/framework-wch-noneos-sdk.git"
     },
-    "framework-arduinoch32v003": {
+    "framework-arduinoch32v003-rsazenha": {
       "type": "framework",
       "optional": true,
       "owner": "platformio",
